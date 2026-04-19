@@ -1,0 +1,15 @@
+# Secrets — ne jamais commiter
+.env
+
+# Docker volumes locaux
+postgres_data/
+
+# Node
+api/node_modules/
+api/npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+.idea/*

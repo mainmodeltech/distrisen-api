@@ -1,0 +1,1304 @@
+{
+  "source": "DISTRISEN API — Taux de Change",
+  "description": "Taux de change mensuels XOF vers devises partenaires",
+  "last_updated": "2024-12-31",
+  "base_currency": "XOF",
+  "data": [
+    {
+      "annee": 2023,
+      "mois": 1,
+      "periode": "2023-01",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001504,
+      "taux_devise_vers_xof": 664.9417
+    },
+    {
+      "annee": 2023,
+      "mois": 1,
+      "periode": "2023-01",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001607,
+      "taux_devise_vers_xof": 622.4523
+    },
+    {
+      "annee": 2023,
+      "mois": 1,
+      "periode": "2023-01",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001276,
+      "taux_devise_vers_xof": 783.7906
+    },
+    {
+      "annee": 2023,
+      "mois": 1,
+      "periode": "2023-01",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017417,
+      "taux_devise_vers_xof": 57.4158
+    },
+    {
+      "annee": 2023,
+      "mois": 1,
+      "periode": "2023-01",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.421894,
+      "taux_devise_vers_xof": 0.4129
+    },
+    {
+      "annee": 2023,
+      "mois": 1,
+      "periode": "2023-01",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025856,
+      "taux_devise_vers_xof": 38.6753
+    },
+    {
+      "annee": 2023,
+      "mois": 2,
+      "periode": "2023-02",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001547,
+      "taux_devise_vers_xof": 646.5456
+    },
+    {
+      "annee": 2023,
+      "mois": 2,
+      "periode": "2023-02",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001705,
+      "taux_devise_vers_xof": 586.6661
+    },
+    {
+      "annee": 2023,
+      "mois": 2,
+      "periode": "2023-02",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001313,
+      "taux_devise_vers_xof": 761.9017
+    },
+    {
+      "annee": 2023,
+      "mois": 2,
+      "periode": "2023-02",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017529,
+      "taux_devise_vers_xof": 57.0485
+    },
+    {
+      "annee": 2023,
+      "mois": 2,
+      "periode": "2023-02",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.395783,
+      "taux_devise_vers_xof": 0.4174
+    },
+    {
+      "annee": 2023,
+      "mois": 2,
+      "periode": "2023-02",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025428,
+      "taux_devise_vers_xof": 39.327
+    },
+    {
+      "annee": 2023,
+      "mois": 3,
+      "periode": "2023-03",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001525,
+      "taux_devise_vers_xof": 655.7003
+    },
+    {
+      "annee": 2023,
+      "mois": 3,
+      "periode": "2023-03",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001712,
+      "taux_devise_vers_xof": 584.2257
+    },
+    {
+      "annee": 2023,
+      "mois": 3,
+      "periode": "2023-03",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001305,
+      "taux_devise_vers_xof": 766.0068
+    },
+    {
+      "annee": 2023,
+      "mois": 3,
+      "periode": "2023-03",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016931,
+      "taux_devise_vers_xof": 59.0616
+    },
+    {
+      "annee": 2023,
+      "mois": 3,
+      "periode": "2023-03",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.480159,
+      "taux_devise_vers_xof": 0.4032
+    },
+    {
+      "annee": 2023,
+      "mois": 3,
+      "periode": "2023-03",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025791,
+      "taux_devise_vers_xof": 38.7727
+    },
+    {
+      "annee": 2023,
+      "mois": 4,
+      "periode": "2023-04",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001496,
+      "taux_devise_vers_xof": 668.5724
+    },
+    {
+      "annee": 2023,
+      "mois": 4,
+      "periode": "2023-04",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001711,
+      "taux_devise_vers_xof": 584.5812
+    },
+    {
+      "annee": 2023,
+      "mois": 4,
+      "periode": "2023-04",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001366,
+      "taux_devise_vers_xof": 732.2537
+    },
+    {
+      "annee": 2023,
+      "mois": 4,
+      "periode": "2023-04",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017507,
+      "taux_devise_vers_xof": 57.1194
+    },
+    {
+      "annee": 2023,
+      "mois": 4,
+      "periode": "2023-04",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.371917,
+      "taux_devise_vers_xof": 0.4216
+    },
+    {
+      "annee": 2023,
+      "mois": 4,
+      "periode": "2023-04",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025789,
+      "taux_devise_vers_xof": 38.7765
+    },
+    {
+      "annee": 2023,
+      "mois": 5,
+      "periode": "2023-05",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001583,
+      "taux_devise_vers_xof": 631.8489
+    },
+    {
+      "annee": 2023,
+      "mois": 5,
+      "periode": "2023-05",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001611,
+      "taux_devise_vers_xof": 620.6269
+    },
+    {
+      "annee": 2023,
+      "mois": 5,
+      "periode": "2023-05",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001347,
+      "taux_devise_vers_xof": 742.3315
+    },
+    {
+      "annee": 2023,
+      "mois": 5,
+      "periode": "2023-05",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016484,
+      "taux_devise_vers_xof": 60.666
+    },
+    {
+      "annee": 2023,
+      "mois": 5,
+      "periode": "2023-05",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.416043,
+      "taux_devise_vers_xof": 0.4139
+    },
+    {
+      "annee": 2023,
+      "mois": 5,
+      "periode": "2023-05",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025143,
+      "taux_devise_vers_xof": 39.7729
+    },
+    {
+      "annee": 2023,
+      "mois": 6,
+      "periode": "2023-06",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001507,
+      "taux_devise_vers_xof": 663.5847
+    },
+    {
+      "annee": 2023,
+      "mois": 6,
+      "periode": "2023-06",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001671,
+      "taux_devise_vers_xof": 598.5462
+    },
+    {
+      "annee": 2023,
+      "mois": 6,
+      "periode": "2023-06",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001292,
+      "taux_devise_vers_xof": 773.7691
+    },
+    {
+      "annee": 2023,
+      "mois": 6,
+      "periode": "2023-06",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017569,
+      "taux_devise_vers_xof": 56.9193
+    },
+    {
+      "annee": 2023,
+      "mois": 6,
+      "periode": "2023-06",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.43309,
+      "taux_devise_vers_xof": 0.411
+    },
+    {
+      "annee": 2023,
+      "mois": 6,
+      "periode": "2023-06",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025547,
+      "taux_devise_vers_xof": 39.144
+    },
+    {
+      "annee": 2023,
+      "mois": 7,
+      "periode": "2023-07",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001549,
+      "taux_devise_vers_xof": 645.7393
+    },
+    {
+      "annee": 2023,
+      "mois": 7,
+      "periode": "2023-07",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001615,
+      "taux_devise_vers_xof": 619.2032
+    },
+    {
+      "annee": 2023,
+      "mois": 7,
+      "periode": "2023-07",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001319,
+      "taux_devise_vers_xof": 758.2896
+    },
+    {
+      "annee": 2023,
+      "mois": 7,
+      "periode": "2023-07",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016802,
+      "taux_devise_vers_xof": 59.518
+    },
+    {
+      "annee": 2023,
+      "mois": 7,
+      "periode": "2023-07",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.45942,
+      "taux_devise_vers_xof": 0.4066
+    },
+    {
+      "annee": 2023,
+      "mois": 7,
+      "periode": "2023-07",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024906,
+      "taux_devise_vers_xof": 40.1514
+    },
+    {
+      "annee": 2023,
+      "mois": 8,
+      "periode": "2023-08",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001576,
+      "taux_devise_vers_xof": 634.322
+    },
+    {
+      "annee": 2023,
+      "mois": 8,
+      "periode": "2023-08",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001696,
+      "taux_devise_vers_xof": 589.6572
+    },
+    {
+      "annee": 2023,
+      "mois": 8,
+      "periode": "2023-08",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001344,
+      "taux_devise_vers_xof": 743.784
+    },
+    {
+      "annee": 2023,
+      "mois": 8,
+      "periode": "2023-08",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016855,
+      "taux_devise_vers_xof": 59.328
+    },
+    {
+      "annee": 2023,
+      "mois": 8,
+      "periode": "2023-08",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.470966,
+      "taux_devise_vers_xof": 0.4047
+    },
+    {
+      "annee": 2023,
+      "mois": 8,
+      "periode": "2023-08",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025368,
+      "taux_devise_vers_xof": 39.4191
+    },
+    {
+      "annee": 2023,
+      "mois": 9,
+      "periode": "2023-09",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001477,
+      "taux_devise_vers_xof": 676.8298
+    },
+    {
+      "annee": 2023,
+      "mois": 9,
+      "periode": "2023-09",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001697,
+      "taux_devise_vers_xof": 589.3993
+    },
+    {
+      "annee": 2023,
+      "mois": 9,
+      "periode": "2023-09",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001364,
+      "taux_devise_vers_xof": 733.1608
+    },
+    {
+      "annee": 2023,
+      "mois": 9,
+      "periode": "2023-09",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017504,
+      "taux_devise_vers_xof": 57.1287
+    },
+    {
+      "annee": 2023,
+      "mois": 9,
+      "periode": "2023-09",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.331002,
+      "taux_devise_vers_xof": 0.429
+    },
+    {
+      "annee": 2023,
+      "mois": 9,
+      "periode": "2023-09",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024904,
+      "taux_devise_vers_xof": 40.1541
+    },
+    {
+      "annee": 2023,
+      "mois": 10,
+      "periode": "2023-10",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001523,
+      "taux_devise_vers_xof": 656.3931
+    },
+    {
+      "annee": 2023,
+      "mois": 10,
+      "periode": "2023-10",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001639,
+      "taux_devise_vers_xof": 609.9467
+    },
+    {
+      "annee": 2023,
+      "mois": 10,
+      "periode": "2023-10",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001322,
+      "taux_devise_vers_xof": 756.3799
+    },
+    {
+      "annee": 2023,
+      "mois": 10,
+      "periode": "2023-10",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017258,
+      "taux_devise_vers_xof": 57.9451
+    },
+    {
+      "annee": 2023,
+      "mois": 10,
+      "periode": "2023-10",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.403268,
+      "taux_devise_vers_xof": 0.4161
+    },
+    {
+      "annee": 2023,
+      "mois": 10,
+      "periode": "2023-10",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025828,
+      "taux_devise_vers_xof": 38.718
+    },
+    {
+      "annee": 2023,
+      "mois": 11,
+      "periode": "2023-11",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001525,
+      "taux_devise_vers_xof": 655.8601
+    },
+    {
+      "annee": 2023,
+      "mois": 11,
+      "periode": "2023-11",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001679,
+      "taux_devise_vers_xof": 595.6447
+    },
+    {
+      "annee": 2023,
+      "mois": 11,
+      "periode": "2023-11",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001291,
+      "taux_devise_vers_xof": 774.4375
+    },
+    {
+      "annee": 2023,
+      "mois": 11,
+      "periode": "2023-11",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017113,
+      "taux_devise_vers_xof": 58.4365
+    },
+    {
+      "annee": 2023,
+      "mois": 11,
+      "periode": "2023-11",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.396358,
+      "taux_devise_vers_xof": 0.4173
+    },
+    {
+      "annee": 2023,
+      "mois": 11,
+      "periode": "2023-11",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.026337,
+      "taux_devise_vers_xof": 37.9689
+    },
+    {
+      "annee": 2023,
+      "mois": 12,
+      "periode": "2023-12",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001578,
+      "taux_devise_vers_xof": 633.645
+    },
+    {
+      "annee": 2023,
+      "mois": 12,
+      "periode": "2023-12",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001703,
+      "taux_devise_vers_xof": 587.0422
+    },
+    {
+      "annee": 2023,
+      "mois": 12,
+      "periode": "2023-12",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.0013,
+      "taux_devise_vers_xof": 769.0749
+    },
+    {
+      "annee": 2023,
+      "mois": 12,
+      "periode": "2023-12",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016344,
+      "taux_devise_vers_xof": 61.184
+    },
+    {
+      "annee": 2023,
+      "mois": 12,
+      "periode": "2023-12",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.439619,
+      "taux_devise_vers_xof": 0.4099
+    },
+    {
+      "annee": 2023,
+      "mois": 12,
+      "periode": "2023-12",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025087,
+      "taux_devise_vers_xof": 39.8609
+    },
+    {
+      "annee": 2024,
+      "mois": 1,
+      "periode": "2024-01",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001522,
+      "taux_devise_vers_xof": 657.1788
+    },
+    {
+      "annee": 2024,
+      "mois": 1,
+      "periode": "2024-01",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001686,
+      "taux_devise_vers_xof": 593.0376
+    },
+    {
+      "annee": 2024,
+      "mois": 1,
+      "periode": "2024-01",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001267,
+      "taux_devise_vers_xof": 789.1333
+    },
+    {
+      "annee": 2024,
+      "mois": 1,
+      "periode": "2024-01",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016317,
+      "taux_devise_vers_xof": 61.2845
+    },
+    {
+      "annee": 2024,
+      "mois": 1,
+      "periode": "2024-01",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.338634,
+      "taux_devise_vers_xof": 0.4276
+    },
+    {
+      "annee": 2024,
+      "mois": 1,
+      "periode": "2024-01",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.026131,
+      "taux_devise_vers_xof": 38.2681
+    },
+    {
+      "annee": 2024,
+      "mois": 2,
+      "periode": "2024-02",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001524,
+      "taux_devise_vers_xof": 656.0447
+    },
+    {
+      "annee": 2024,
+      "mois": 2,
+      "periode": "2024-02",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001634,
+      "taux_devise_vers_xof": 612.0668
+    },
+    {
+      "annee": 2024,
+      "mois": 2,
+      "periode": "2024-02",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001356,
+      "taux_devise_vers_xof": 737.3802
+    },
+    {
+      "annee": 2024,
+      "mois": 2,
+      "periode": "2024-02",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017272,
+      "taux_devise_vers_xof": 57.8976
+    },
+    {
+      "annee": 2024,
+      "mois": 2,
+      "periode": "2024-02",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.439024,
+      "taux_devise_vers_xof": 0.41
+    },
+    {
+      "annee": 2024,
+      "mois": 2,
+      "periode": "2024-02",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025715,
+      "taux_devise_vers_xof": 38.8882
+    },
+    {
+      "annee": 2024,
+      "mois": 3,
+      "periode": "2024-03",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001534,
+      "taux_devise_vers_xof": 651.98
+    },
+    {
+      "annee": 2024,
+      "mois": 3,
+      "periode": "2024-03",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001646,
+      "taux_devise_vers_xof": 607.4934
+    },
+    {
+      "annee": 2024,
+      "mois": 3,
+      "periode": "2024-03",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001264,
+      "taux_devise_vers_xof": 791.3241
+    },
+    {
+      "annee": 2024,
+      "mois": 3,
+      "periode": "2024-03",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017264,
+      "taux_devise_vers_xof": 57.9255
+    },
+    {
+      "annee": 2024,
+      "mois": 3,
+      "periode": "2024-03",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.319109,
+      "taux_devise_vers_xof": 0.4312
+    },
+    {
+      "annee": 2024,
+      "mois": 3,
+      "periode": "2024-03",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024891,
+      "taux_devise_vers_xof": 40.1758
+    },
+    {
+      "annee": 2024,
+      "mois": 4,
+      "periode": "2024-04",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001519,
+      "taux_devise_vers_xof": 658.193
+    },
+    {
+      "annee": 2024,
+      "mois": 4,
+      "periode": "2024-04",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001622,
+      "taux_devise_vers_xof": 616.5442
+    },
+    {
+      "annee": 2024,
+      "mois": 4,
+      "periode": "2024-04",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001327,
+      "taux_devise_vers_xof": 753.6301
+    },
+    {
+      "annee": 2024,
+      "mois": 4,
+      "periode": "2024-04",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016409,
+      "taux_devise_vers_xof": 60.942
+    },
+    {
+      "annee": 2024,
+      "mois": 4,
+      "periode": "2024-04",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.402691,
+      "taux_devise_vers_xof": 0.4162
+    },
+    {
+      "annee": 2024,
+      "mois": 4,
+      "periode": "2024-04",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025173,
+      "taux_devise_vers_xof": 39.7254
+    },
+    {
+      "annee": 2024,
+      "mois": 5,
+      "periode": "2024-05",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001579,
+      "taux_devise_vers_xof": 633.3024
+    },
+    {
+      "annee": 2024,
+      "mois": 5,
+      "periode": "2024-05",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001641,
+      "taux_devise_vers_xof": 609.2121
+    },
+    {
+      "annee": 2024,
+      "mois": 5,
+      "periode": "2024-05",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001269,
+      "taux_devise_vers_xof": 788.2771
+    },
+    {
+      "annee": 2024,
+      "mois": 5,
+      "periode": "2024-05",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.017152,
+      "taux_devise_vers_xof": 58.3019
+    },
+    {
+      "annee": 2024,
+      "mois": 5,
+      "periode": "2024-05",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.374733,
+      "taux_devise_vers_xof": 0.4211
+    },
+    {
+      "annee": 2024,
+      "mois": 5,
+      "periode": "2024-05",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024705,
+      "taux_devise_vers_xof": 40.4771
+    },
+    {
+      "annee": 2024,
+      "mois": 6,
+      "periode": "2024-06",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001501,
+      "taux_devise_vers_xof": 666.0588
+    },
+    {
+      "annee": 2024,
+      "mois": 6,
+      "periode": "2024-06",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001648,
+      "taux_devise_vers_xof": 606.6449
+    },
+    {
+      "annee": 2024,
+      "mois": 6,
+      "periode": "2024-06",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001286,
+      "taux_devise_vers_xof": 777.6973
+    },
+    {
+      "annee": 2024,
+      "mois": 6,
+      "periode": "2024-06",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016273,
+      "taux_devise_vers_xof": 61.4526
+    },
+    {
+      "annee": 2024,
+      "mois": 6,
+      "periode": "2024-06",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.357934,
+      "taux_devise_vers_xof": 0.4241
+    },
+    {
+      "annee": 2024,
+      "mois": 6,
+      "periode": "2024-06",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024682,
+      "taux_devise_vers_xof": 40.5153
+    },
+    {
+      "annee": 2024,
+      "mois": 7,
+      "periode": "2024-07",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001533,
+      "taux_devise_vers_xof": 652.3973
+    },
+    {
+      "annee": 2024,
+      "mois": 7,
+      "periode": "2024-07",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001694,
+      "taux_devise_vers_xof": 590.4548
+    },
+    {
+      "annee": 2024,
+      "mois": 7,
+      "periode": "2024-07",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.00132,
+      "taux_devise_vers_xof": 757.849
+    },
+    {
+      "annee": 2024,
+      "mois": 7,
+      "periode": "2024-07",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016777,
+      "taux_devise_vers_xof": 59.606
+    },
+    {
+      "annee": 2024,
+      "mois": 7,
+      "periode": "2024-07",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.384359,
+      "taux_devise_vers_xof": 0.4194
+    },
+    {
+      "annee": 2024,
+      "mois": 7,
+      "periode": "2024-07",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025666,
+      "taux_devise_vers_xof": 38.9619
+    },
+    {
+      "annee": 2024,
+      "mois": 8,
+      "periode": "2024-08",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001472,
+      "taux_devise_vers_xof": 679.5178
+    },
+    {
+      "annee": 2024,
+      "mois": 8,
+      "periode": "2024-08",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001649,
+      "taux_devise_vers_xof": 606.2552
+    },
+    {
+      "annee": 2024,
+      "mois": 8,
+      "periode": "2024-08",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001323,
+      "taux_devise_vers_xof": 755.9438
+    },
+    {
+      "annee": 2024,
+      "mois": 8,
+      "periode": "2024-08",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016409,
+      "taux_devise_vers_xof": 60.9424
+    },
+    {
+      "annee": 2024,
+      "mois": 8,
+      "periode": "2024-08",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.328289,
+      "taux_devise_vers_xof": 0.4295
+    },
+    {
+      "annee": 2024,
+      "mois": 8,
+      "periode": "2024-08",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.025952,
+      "taux_devise_vers_xof": 38.5323
+    },
+    {
+      "annee": 2024,
+      "mois": 9,
+      "periode": "2024-09",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001533,
+      "taux_devise_vers_xof": 652.3683
+    },
+    {
+      "annee": 2024,
+      "mois": 9,
+      "periode": "2024-09",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001615,
+      "taux_devise_vers_xof": 619.163
+    },
+    {
+      "annee": 2024,
+      "mois": 9,
+      "periode": "2024-09",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001277,
+      "taux_devise_vers_xof": 782.9758
+    },
+    {
+      "annee": 2024,
+      "mois": 9,
+      "periode": "2024-09",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016935,
+      "taux_devise_vers_xof": 59.0502
+    },
+    {
+      "annee": 2024,
+      "mois": 9,
+      "periode": "2024-09",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.392344,
+      "taux_devise_vers_xof": 0.418
+    },
+    {
+      "annee": 2024,
+      "mois": 9,
+      "periode": "2024-09",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.02615,
+      "taux_devise_vers_xof": 38.2415
+    },
+    {
+      "annee": 2024,
+      "mois": 10,
+      "periode": "2024-10",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001527,
+      "taux_devise_vers_xof": 654.9802
+    },
+    {
+      "annee": 2024,
+      "mois": 10,
+      "periode": "2024-10",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001632,
+      "taux_devise_vers_xof": 612.7537
+    },
+    {
+      "annee": 2024,
+      "mois": 10,
+      "periode": "2024-10",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001301,
+      "taux_devise_vers_xof": 768.9279
+    },
+    {
+      "annee": 2024,
+      "mois": 10,
+      "periode": "2024-10",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016281,
+      "taux_devise_vers_xof": 61.4214
+    },
+    {
+      "annee": 2024,
+      "mois": 10,
+      "periode": "2024-10",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.491281,
+      "taux_devise_vers_xof": 0.4014
+    },
+    {
+      "annee": 2024,
+      "mois": 10,
+      "periode": "2024-10",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024756,
+      "taux_devise_vers_xof": 40.3949
+    },
+    {
+      "annee": 2024,
+      "mois": 11,
+      "periode": "2024-11",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001571,
+      "taux_devise_vers_xof": 636.5992
+    },
+    {
+      "annee": 2024,
+      "mois": 11,
+      "periode": "2024-11",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001599,
+      "taux_devise_vers_xof": 625.3278
+    },
+    {
+      "annee": 2024,
+      "mois": 11,
+      "periode": "2024-11",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001279,
+      "taux_devise_vers_xof": 781.7702
+    },
+    {
+      "annee": 2024,
+      "mois": 11,
+      "periode": "2024-11",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016922,
+      "taux_devise_vers_xof": 59.0938
+    },
+    {
+      "annee": 2024,
+      "mois": 11,
+      "periode": "2024-11",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.493766,
+      "taux_devise_vers_xof": 0.401
+    },
+    {
+      "annee": 2024,
+      "mois": 11,
+      "periode": "2024-11",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.024986,
+      "taux_devise_vers_xof": 40.0224
+    },
+    {
+      "annee": 2024,
+      "mois": 12,
+      "periode": "2024-12",
+      "devise_code": "EUR",
+      "devise_name": "Euro",
+      "taux_xof_vers_devise": 0.001503,
+      "taux_devise_vers_xof": 665.3857
+    },
+    {
+      "annee": 2024,
+      "mois": 12,
+      "periode": "2024-12",
+      "devise_code": "USD",
+      "devise_name": "US Dollar",
+      "taux_xof_vers_devise": 0.001598,
+      "taux_devise_vers_xof": 625.7495
+    },
+    {
+      "annee": 2024,
+      "mois": 12,
+      "periode": "2024-12",
+      "devise_code": "GBP",
+      "devise_name": "British Pound",
+      "taux_xof_vers_devise": 0.001332,
+      "taux_devise_vers_xof": 751.032
+    },
+    {
+      "annee": 2024,
+      "mois": 12,
+      "periode": "2024-12",
+      "devise_code": "MAD",
+      "devise_name": "Dirham Marocain",
+      "taux_xof_vers_devise": 0.016622,
+      "taux_devise_vers_xof": 60.1619
+    },
+    {
+      "annee": 2024,
+      "mois": 12,
+      "periode": "2024-12",
+      "devise_code": "NGN",
+      "devise_name": "Naira Nigérian",
+      "taux_xof_vers_devise": 2.376426,
+      "taux_devise_vers_xof": 0.4208
+    },
+    {
+      "annee": 2024,
+      "mois": 12,
+      "periode": "2024-12",
+      "devise_code": "GHS",
+      "devise_name": "Cedi Ghanéen",
+      "taux_xof_vers_devise": 0.026288,
+      "taux_devise_vers_xof": 38.0406
+    }
+  ]
+}
